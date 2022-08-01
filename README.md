@@ -15,5 +15,5 @@
 
 ### Screenshot
 
-![Screenshot](/thumbnail.png)
+![Screenshot](9_screenshot.png)
 
